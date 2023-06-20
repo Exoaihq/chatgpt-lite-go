@@ -1,0 +1,1 @@
+Unfortunately, it's not possible to directly convert this TypeScript code to Go, as these declarations are specific to TypeScript and its module system. However, I can help you with a similar functionality in Go if you provide more context or requirements.
